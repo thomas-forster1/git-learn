@@ -1,5 +1,7 @@
 const firstName = "Tom";
-const badAdjective = "smelly";
-const verb = "daning";
+
+const adjective = "farts";
+const badAdjective = "farts";
+const verb = "dancing";
 
 console.log(firstName + 'is' + adjective);
