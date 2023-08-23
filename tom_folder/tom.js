@@ -1,5 +1,5 @@
 const isTomAwesome = () => {
-    return 'Tom is awesome!';
+    return 'Thomas is awesome!';
 }
 
 
